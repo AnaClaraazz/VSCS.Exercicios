@@ -1,4 +1,5 @@
-export class Eletronico{
+export class Eletronic{
+    
     tipodeproduto: string
     fatordeforma: string
     largura: string
