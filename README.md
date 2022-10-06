@@ -1,0 +1,2 @@
+# VSCS.Exercicios
+Programadores Cariocas
